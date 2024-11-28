@@ -1,0 +1,24 @@
+digraph G {
+node [shape=box];
+Mt[ label ="Cabeza", width = 1.5, style = filled, fillcolor = firebrick1, group = 1 ];
+e0[ shape = point, width = 0 ];
+e1[ shape = point, width = 0 ];
+Mt -> node0head;
+node0head [label="F0" width = 1.5 style = filled, fillcolor = bisque1, group = 1];
+Mt -> nodehead0;
+nodehead0 [label="C0 " width = 1.5 style = filled, fillcolor = lightskyblue, group = 1000 ];
+{ rank = same; Mt; nodehead0; };
+node00PY-100 [label="PY-100 " width = 1.5, group = 1000 ];
+node00PY-101 [label="PY-101 " width = 1.5, group = 1000 ];
+node00PY-102 [label="PY-102 " width = 1.5, group = 1000 ];
+node00PY-103 [label="PY-103 " width = 1.5, group = 1000 ];
+node0head -> node00PY-100;
+node00PY-100 -> node00PY-101;
+nodehead0 -> node00PY-100;
+node00PY-101 -> node00PY-102;
+node00PY-100 -> node00PY-101;
+node00PY-102 -> node00PY-103;
+node00PY-101 -> node00PY-102;
+node00PY-102 -> node00PY-103;
+{ rank = same; node0head; node00PY-100; node00PY-101; node00PY-102; node00PY-103; };
+}

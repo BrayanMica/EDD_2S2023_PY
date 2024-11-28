@@ -1,0 +1,17 @@
+digraph G {
+rankdir=LR
+node [shape=box];
+proyecto1A[label="proyecto1
+PY-100
+PrioridadA"];
+proyecto4A[label="proyecto4
+PY-103
+PrioridadA"];
+proyecto2B[label="proyecto2
+PY-101
+PrioridadB"];
+proyecto3C[label="proyecto3
+PY-102
+PrioridadC"];
+proyecto1A->proyecto4A->proyecto2B->proyecto3C[dir=back];
+}
