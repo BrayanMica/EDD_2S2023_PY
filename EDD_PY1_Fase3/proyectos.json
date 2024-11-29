@@ -1,0 +1,51 @@
+{
+    "Proyectos":[
+        {
+            "id":"PY-100",
+            "nombre":"Pasteleria Queen's",
+            "tareas":[
+                {
+                    "nombre": "Diseñar la página de inicio",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Implementar un sistema de pedidos en línea",
+                    "empleado": "BDEV-106"
+                },
+                {
+                    "nombre": "Crear una galería de imagenes de pasteles",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Pruebas de usabilidad en el proceso de pedido",
+                    "empleado": "QA-201"
+                },
+                {
+                    "nombre": "Diseñar un blog de recetas de pasteles",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Integrar el sitio web con las redes sociales",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Configurar un sistema de reservas de pasteles para eventos",
+                    "empleado": "BDEV-106"
+                },
+                {
+                    "nombre": "Implementar pagina de reservas",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Realizar pruebas de pagina de reservas",
+                    "empleado": "QA-201"
+                },
+                {
+                    "nombre": "Optimizar el rendimiento del sitio web",
+                    "empleado": "FDEV-201"
+                }
+            ],
+            "prioridad":"A"
+        }
+    ]
+}

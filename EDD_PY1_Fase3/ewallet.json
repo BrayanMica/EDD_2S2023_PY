@@ -1,0 +1,64 @@
+{
+    "eWallet": [
+        {
+            "empleado": "FDEV-101",
+            "id": "DCF0K3E9"
+        },
+        {
+            "empleado": "BDEV-100",
+            "id": "JKNO0XTP"
+        },
+        {
+            "empleado": "FDEV-109",
+            "id": "DC67JYTU"
+        },
+        {
+            "empleado": "QA-102",
+            "id": "JKJOZRCS"
+        },
+        {
+            "empleado": "QA-201",
+            "id": "JK63HPRT"
+        },
+        {
+            "empleado": "FDEV-201",
+            "id": "DC7SN8HN"
+        },
+        {
+            "empleado": "BDEV-106",
+            "id": "JKTIDCTG"
+        },
+        {
+            "empleado": "BDEV-250",
+            "id": "JK3C3L4L"
+        },
+        {
+            "empleado": "BDEV-500",
+            "id": "JKCTEPS9"
+        },
+        {
+            "empleado": "FDEV-523",
+            "id": "DCXMVF7J"
+        },
+        {
+            "empleado": "FDEV-123",
+            "id": "DC5PNQHR"
+        },
+        {
+            "empleado": "QA-523",
+            "id": "JKLXT7NO"
+        },
+        {
+            "empleado": "QA-123",
+            "id": "JKMKG9J8"
+        },
+        {
+            "empleado": "BDEV-423",
+            "id": "JKNYNWFF"
+        },
+        {
+            "empleado": "FDEV-563",
+            "id": "DCIEIUO6"
+        }
+    ]
+}

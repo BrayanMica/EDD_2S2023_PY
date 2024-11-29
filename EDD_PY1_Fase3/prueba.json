@@ -1,0 +1,87 @@
+{
+    "Tareas": [
+        {
+            "proyecto": "PY-100",
+            "codigo": "T1-PY-100",
+            "antecesor":[],
+            "pago":"152"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T2-PY-100",
+            "antecesor":[],
+            "pago":"162"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T3-PY-100",
+            "antecesor":[],
+            "pago":"222"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T4-PY-100",
+            "antecesor":[
+                {
+                    "codigo":"T2-PY-100"
+                }
+            ],
+            "pago":"125"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T5-PY-100",
+            "antecesor":[
+                {
+                    "codigo":"T4-PY-100"
+                }
+            ],
+            "pago":"125"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T6-PY-100",
+            "antecesor":[],
+            "pago":"125"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T7-PY-100",
+            "antecesor":[],
+            "pago":"125"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T8-PY-100",
+            "antecesor":[
+                {
+                    "codigo":"T5-PY-100"
+                },
+                {
+                    "codigo":"T7-PY-100"
+                }
+            ],
+            "pago":"125"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T9-PY-100",
+            "antecesor":[
+                {
+                    "codigo":"T8-PY-100"
+                }
+            ],
+            "pago":"125"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T10-PY-100",
+            "antecesor":[
+                {
+                    "codigo":"T9-PY-100"
+                }
+            ],
+            "pago":"125"
+        }
+    ]
+}

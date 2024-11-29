@@ -1,0 +1,18 @@
+digraph BinaryTree {
+  "T1-PY-100" [label="T1-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T2-PY-100" [label="T2-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T3-PY-100" [label="T3-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T4-PY-100" [label="T4-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T4-PY-100" -> "T2-PY-100";
+  "T5-PY-100" [label="T5-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T5-PY-100" -> "T4-PY-100";
+  "T6-PY-100" [label="T6-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T7-PY-100" [label="T7-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T8-PY-100" [label="T8-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T8-PY-100" -> "T5-PY-100";
+  "T8-PY-100" -> "T7-PY-100";
+  "T9-PY-100" [label="T9-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T9-PY-100" -> "T8-PY-100";
+  "T10-PY-100" [label="T10-PY-100", fillcolor=lime, style=filled, color=blue];
+  "T10-PY-100" -> "T9-PY-100";
+}

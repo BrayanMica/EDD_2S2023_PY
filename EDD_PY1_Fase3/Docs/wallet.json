@@ -1,0 +1,16 @@
+{
+    "eWallet":[
+        {
+            "empleado": "BDEV-100",
+            "id":"DC78ED15"
+        },
+        {
+            "empleado": "FDEV-100",
+            "id":"DC38ED15"
+        },
+        {
+            "empleado": "QA-100",
+            "id":"JK78ED15"
+        }
+    ]
+}
