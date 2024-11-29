@@ -1,0 +1,200 @@
+{
+    "Proyectos":[
+        {
+            "id":"PY-100",
+            "nombre":"Sistema de inventario Vestidos Julieta",
+            "tareas": [
+                {
+                    "nombre":"Generar Consultas del area de destornilladores",
+                    "empleado":"BDEV-250"
+                },
+                {
+                    "nombre":"Mostrar Herramientas de trabajo",
+                    "empleado":"FDEV-523"
+                },
+                {
+                    "nombre":"Probar barra de busqueda",
+                    "empleado":"QA-102"
+                }
+            ],
+            "prioridad":"C"
+        },
+        {
+            "id":"PY-101",
+            "nombre":"Tienda Online Restaurante Giovanni",
+            "tareas":[
+                {
+                    "nombre": "Diseñar el logotipo",
+                    "empleado": "FDEV-109"
+                },
+                {
+                    "nombre": "Crear la página de inicio",
+                    "empleado": "FDEV-109"
+                },
+                {
+                    "nombre": "Escribir el contenido del blog de comida",
+                    "empleado": "BDEV-250"
+                },
+                {
+                    "nombre": "Mostrar contenido del blog de comida",
+                    "empleado": "FDEV-109"
+                },
+                {
+                    "nombre": "Configurar el servidor",
+                    "empleado": "BDEV-250"
+                },
+                {
+                    "nombre": "Realizar pruebas de calidad en carrito de compra",
+                    "empleado": "QA-523"
+                },
+                {
+                    "nombre": "Realizar pruebas de calidad en login",
+                    "empleado": "QA-102"
+                }
+            ],
+            "prioridad":"B"
+        },
+        {
+            "id":"PY-102",
+            "nombre":"Sistema de inventario EPA",
+            "tareas":[
+                {
+                    "nombre": "Actualizar el inventario de productos",
+                    "empleado": "BDEV-423"
+                },
+                {
+                    "nombre": "Crear una interfaz de usuario para la gestión de inventario",
+                    "empleado": "FDEV-523"
+                },
+                {
+                    "nombre": "Realizar un conteo físico de existencias",
+                    "empleado": "QA-102"
+                },
+                {
+                    "nombre": "Agregar nuevos productos al sistema",
+                    "empleado": "BDEV-423"
+                },
+                {
+                    "nombre": "Generar informes de inventario",
+                    "empleado": "BDEV-500"
+                }
+            ],
+            "prioridad":"A"
+        },
+        {
+            "id":"PY-103",
+            "nombre":"Pizzeria Los Hermanos",
+            "tareas":[
+                {
+                    "nombre": "Diseñar la página de inicio",
+                    "empleado": "FDEV-109"
+                },
+                {
+                    "nombre": "Implementar el sistema de pedidos en línea",
+                    "empleado": "BDEV-106"
+                },
+                {
+                    "nombre": "Crear una galería de imágenes de pizzas",
+                    "empleado": "FDEV-123"
+                },
+                {
+                    "nombre": "Pruebas de usabilidad en el proceso de pedido",
+                    "empleado": "QA-523"
+                },
+                {
+                    "nombre": "Optimizar el rendimiento del sitio web",
+                    "empleado": "FDEV-123"
+                }
+            ],
+            "prioridad":"A"
+        },
+        {
+            "id":"PY-104",
+            "nombre":"Servicio de Cable",
+            "tareas":[
+                {
+                    "nombre": "Diseñar la página de inicio",
+                    "empleado": "FDEV-101"
+                },
+                {
+                    "nombre": "Implementar la lista de canales en línea",
+                    "empleado": "BDEV-100"
+                },
+                {
+                    "nombre": "Crear un sistema de facturación en línea",
+                    "empleado": "BDEV-106"
+                },
+                {
+                    "nombre": "Pruebas de usabilidad en el proceso de selección de canales",
+                    "empleado": "QA-201"
+                },
+                {
+                    "nombre": "Optimizar el rendimiento del sitio web",
+                    "empleado": "FDEV-101"
+                }
+            ],
+            "prioridad":"A"
+        },
+        {
+            "id":"PY-105",
+            "nombre":"Venta de Repuestos Gomez",
+            "tareas":[],
+            "prioridad":"A"
+        },
+        {
+            "id":"PY-106",
+            "nombre":"Bufete Juridico MyM Asociados",
+            "tareas":[],
+            "prioridad":"B"
+        },
+        {
+            "id":"PY-107",
+            "nombre":"Fruta Organica Jessi",
+            "tareas":[],
+            "prioridad":"C"
+        },
+        {
+            "id":"PY-108",
+            "nombre":"Pasteleria Queen's",
+            "tareas":[
+                {
+                    "nombre": "Diseñar la página de inicio",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Implementar un sistema de pedidos en línea",
+                    "empleado": "BDEV-106"
+                },
+                {
+                    "nombre": "Crear una galería de imagenes de pasteles",
+                    "empleado": "FDEV-109"
+                },
+                {
+                    "nombre": "Pruebas de usabilidad en el proceso de pedido",
+                    "empleado": "QA-201"
+                },
+                {
+                    "nombre": "Optimizar el rendimiento del sitio web",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Diseñar un blog de recetas de pasteles",
+                    "empleado": "FDEV-109"
+                },
+                {
+                    "nombre": "Integrar el sitio web con las redes sociales",
+                    "empleado": "FDEV-201"
+                },
+                {
+                    "nombre": "Configurar un sistema de reservas de pasteles para eventos",
+                    "empleado": "BDEV-106"
+                },
+                {
+                    "nombre": "Realizar pruebas de seguridad del sitio web",
+                    "empleado": "QA-201"
+                }
+            ],
+            "prioridad":"A"
+        }
+    ]
+}

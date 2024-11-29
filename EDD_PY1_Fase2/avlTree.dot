@@ -1,0 +1,28 @@
+digraph G {
+node272[label="ID: PY-103\nProyecto: Pizzeria Los Hermanos\nPrioridad: A\nValor: 272\nAltura: 4\nBalance: -1", shape="box"]
+
+node272 -> node270
+node270[label="ID: PY-101\nProyecto: Tienda Online Restaurante Giovanni\nPrioridad: B\nValor: 270\nAltura: 2\nBalance: 0", shape="box"]
+
+node270 -> node269
+node269[label="ID: PY-100\nProyecto: Sistema de inventario Vestidos Julieta\nPrioridad: C\nValor: 269\nAltura: 1\nBalance: 0", shape="box"]
+
+node270 -> node271
+node271[label="ID: PY-102\nProyecto: Sistema de inventario EPA\nPrioridad: A\nValor: 271\nAltura: 1\nBalance: 0", shape="box"]
+
+node272 -> node274
+node274[label="ID: PY-105\nProyecto: Venta de Repuestos Gomez\nPrioridad: A\nValor: 274\nAltura: 3\nBalance: -1", shape="box"]
+
+node274 -> node273
+node273[label="ID: PY-104\nProyecto: Servicio de Cable\nPrioridad: A\nValor: 273\nAltura: 1\nBalance: 0", shape="box"]
+
+node274 -> node276
+node276[label="ID: PY-107\nProyecto: Fruta Organica Jessi\nPrioridad: C\nValor: 276\nAltura: 2\nBalance: 0", shape="box"]
+
+node276 -> node275
+node275[label="ID: PY-106\nProyecto: Bufete Juridico MyM Asociados\nPrioridad: B\nValor: 275\nAltura: 1\nBalance: 0", shape="box"]
+
+node276 -> node277
+node277[label="ID: PY-108\nProyecto: Pasteleria Queen's\nPrioridad: A\nValor: 277\nAltura: 1\nBalance: 0", shape="box"]
+
+}

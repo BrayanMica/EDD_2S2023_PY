@@ -1,0 +1,22 @@
+Referencias
+https://tkdocs.com/
+https://github.com/Akascape/CTkTable
+https://github.com/TomSchimansky/CustomTkinter
+
+Comandos
+python3 -m venv demo
+# Para activar el entorno virtural
+source demo/bin/activate
+
+# Para apagar el entorno virtural
+
+pip3 install customtkinter
+pip3 install CTkTable
+
+python3 dummy.py
+deactivate
+
+Datos
+grid
+pack
+place
