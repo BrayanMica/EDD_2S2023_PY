@@ -4,9 +4,9 @@
 
 ## Contenido Destacado
 
-- [Fase 1](https://gitlab.com/BrayanMica/edd_2s2023_py_201907343/-/tree/main/EDD_PY1_Fase1?ref_type=heads)
-- [Fase 2](https://gitlab.com/BrayanMica/edd_2s2023_py_201907343/-/tree/main/EDD_PY1_Fase2?ref_type=heads)
-- [Fase 3](https://gitlab.com/BrayanMica/edd_2s2023_py_201907343/-/tree/main/EDD_PY1_Fase3?ref_type=heads)
+- [Fase 1](https://github.com/BrayanMica/EDD_2S2023_PY/tree/main/EDD_PY1_Fase1)
+- [Fase 2](https://github.com/BrayanMica/EDD_2S2023_PY/tree/main/EDD_PY1_Fase2)
+- [Fase 3](https://github.com/BrayanMica/EDD_2S2023_PY/tree/main/EDD_PY1_Fase3)
 
 ¡No dudes en contactarnos si tienes alguna pregunta o comentario!
 
